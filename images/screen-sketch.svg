@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" font-family="Helvetica, Arial, 'DejaVu Sans', sans-serif">
+<rect width="960" height="660" fill="#fbf3e4"/>
+<rect x="0" y="0" width="960" height="60" fill="#9d0208"/>
+<text x="24" y="38" font-size="20" font-weight="bold" fill="#fff">Shakshuka Tycoon</text>
+<rect x="240" y="12" width="100" height="36" rx="8" fill="#6a040f"/>
+<text x="248" y="27" font-size="11" fill="#ffccd5">Cash</text>
+<text x="248" y="43" font-size="15" font-weight="bold" fill="#fff">₪14,280</text>
+<rect x="350" y="12" width="90" height="36" rx="8" fill="#6a040f"/>
+<text x="358" y="27" font-size="11" fill="#ffccd5">Rating</text>
+<text x="358" y="43" font-size="15" font-weight="bold" fill="#fff">3.8 / 5</text>
+<rect x="450" y="12" width="100" height="36" rx="8" fill="#6a040f"/>
+<text x="458" y="27" font-size="11" fill="#ffccd5">Day 12</text>
+<text x="458" y="43" font-size="15" font-weight="bold" fill="#fff">Tue 10:40</text>
+<rect x="560" y="12" width="200" height="36" rx="8" fill="#ffba08"/>
+<text x="570" y="27" font-size="11" font-weight="bold" fill="#6a040f">NEXT BILL</text>
+<text x="570" y="43" font-size="14" font-weight="bold" fill="#370617">Rent ₪6,000 in 3 days</text>
+<rect x="772" y="16" width="30" height="28" rx="6" fill="#6a040f"/>
+<text x="787" y="35" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">II</text>
+<rect x="806" y="16" width="30" height="28" rx="6" fill="#6a040f"/>
+<text x="821" y="35" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">1x</text>
+<rect x="840" y="16" width="30" height="28" rx="6" fill="#fff"/>
+<text x="855" y="35" font-size="12" font-weight="bold" fill="#9d0208" text-anchor="middle">2x</text>
+<rect x="874" y="16" width="30" height="28" rx="6" fill="#6a040f"/>
+<text x="889" y="35" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">4x</text>
+<rect x="24" y="80" width="560" height="390" rx="10" fill="#f1dcb5" stroke="#7f5539" stroke-width="3"/>
+<rect x="24" y="80" width="560" height="80" rx="10" fill="#ddb892"/>
+<rect x="44" y="100" width="240" height="34" rx="4" fill="#7f5539"/>
+<text x="164" y="122" font-size="13" fill="#fff" text-anchor="middle">Stove (2 burners)</text>
+<circle cx="344" cy="118" r="15" fill="#ffffff" stroke="#333" stroke-width="2"/>
+<text x="344" y="152" font-size="11" fill="#333" text-anchor="middle">Cook: Dana</text>
+<circle cx="454" cy="118" r="15" fill="#ffffff" stroke="#333" stroke-width="2"/>
+<text x="454" y="152" font-size="11" fill="#333" text-anchor="middle">Cook: Yossi</text>
+<text x="568" y="98" font-size="11" fill="#7f5539" text-anchor="end">KITCHEN</text>
+<circle cx="134" cy="250" r="30" fill="#b08968" stroke="#7f5539" stroke-width="2"/>
+<circle cx="94" cy="250" r="11" fill="#4361ee"/>
+<circle cx="174" cy="250" r="11" fill="#4361ee"/>
+<ellipse cx="134" cy="250" rx="14" ry="10" fill="#d00000" stroke="#fff" stroke-width="2"/>
+<circle cx="274" cy="250" r="30" fill="#b08968" stroke="#7f5539" stroke-width="2"/>
+<circle cx="234" cy="250" r="11" fill="#4361ee"/>
+<circle cx="314" cy="250" r="11" fill="#4361ee"/>
+<ellipse cx="274" cy="250" rx="14" ry="10" fill="#d00000" stroke="#fff" stroke-width="2"/>
+<circle cx="414" cy="250" r="30" fill="#b08968" stroke="#7f5539" stroke-width="2"/>
+<circle cx="374" cy="250" r="11" fill="#4361ee"/>
+<ellipse cx="414" cy="250" rx="14" ry="10" fill="#d00000" stroke="#fff" stroke-width="2"/>
+<circle cx="134" cy="380" r="30" fill="#b08968" stroke="#7f5539" stroke-width="2"/>
+<circle cx="274" cy="380" r="30" fill="#b08968" stroke="#7f5539" stroke-width="2"/>
+<circle cx="234" cy="380" r="11" fill="#4361ee"/>
+<circle cx="314" cy="380" r="11" fill="#4361ee"/>
+<ellipse cx="274" cy="380" rx="14" ry="10" fill="#d00000" stroke="#fff" stroke-width="2"/>
+<circle cx="414" cy="380" r="30" fill="#b08968" stroke="#7f5539" stroke-width="2"/>
+<circle cx="374" cy="380" r="11" fill="#4361ee"/>
+<circle cx="454" cy="380" r="11" fill="#4361ee"/>
+<ellipse cx="414" cy="380" rx="14" ry="10" fill="#d00000" stroke="#fff" stroke-width="2"/>
+<text x="294" y="198" font-size="16" font-weight="bold" fill="#2d6a4f">+₪42</text>
+<text x="154" y="328" font-size="16" font-weight="bold" fill="#2d6a4f">+₪46</text>
+<circle cx="354" cy="330" r="12" fill="#2a9d8f"/>
+<text x="354" y="358" font-size="11" fill="#333" text-anchor="middle">Waiter: Noa</text>
+<rect x="560" y="330" width="24" height="80" fill="#7f5539"/>
+<text x="554" y="326" font-size="11" fill="#7f5539" text-anchor="end">DOOR</text>
+<circle cx="596" cy="342" r="10" fill="#4361ee"/>
+<circle cx="596" cy="368" r="10" fill="#4361ee"/>
+<circle cx="596" cy="394" r="10" fill="#4361ee"/>
+<circle cx="596" cy="452" r="10" fill="#adb5bd"/>
+<rect x="414" y="430" width="150" height="28" rx="14" fill="#fff" stroke="#999"/>
+<text x="489" y="449" font-size="12" fill="#c1121f" text-anchor="middle">"₪48? Too much."</text>
+<text x="44" y="458" font-size="12" fill="#7f5539">Wait time: 6 min  ·  Queue: 3  ·  Left today: 4</text>
+<rect x="610" y="80" width="326" height="150" rx="10" fill="#fff" stroke="#e0c9a6" stroke-width="2"/>
+<text x="626" y="106" font-size="15" font-weight="bold" fill="#370617">Menu prices (set each morning)</text>
+<text x="626" y="132" font-size="13" fill="#333">Classic shakshuka</text>
+<text x="920" y="132" font-size="13" font-weight="bold" fill="#9d0208" text-anchor="end">₪42</text>
+<rect x="626" y="140" width="294" height="6" rx="3" fill="#eee"/>
+<rect x="626" y="140" width="161.70000000000002" height="6" rx="3" fill="#e85d04"/>
+<circle cx="787.7" cy="143" r="7" fill="#fff" stroke="#e85d04" stroke-width="3"/>
+<text x="626" y="166" font-size="13" fill="#333">Green shakshuka</text>
+<text x="920" y="166" font-size="13" font-weight="bold" fill="#9d0208" text-anchor="end">₪46</text>
+<rect x="626" y="174" width="294" height="6" rx="3" fill="#eee"/>
+<rect x="626" y="174" width="182.28" height="6" rx="3" fill="#e85d04"/>
+<circle cx="808.28" cy="177" r="7" fill="#fff" stroke="#e85d04" stroke-width="3"/>
+<text x="626" y="200" font-size="13" fill="#333">Feta add-on</text>
+<text x="920" y="200" font-size="13" font-weight="bold" fill="#9d0208" text-anchor="end">₪6</text>
+<rect x="626" y="208" width="294" height="6" rx="3" fill="#eee"/>
+<rect x="626" y="208" width="88.2" height="6" rx="3" fill="#e85d04"/>
+<circle cx="714.2" cy="211" r="7" fill="#fff" stroke="#e85d04" stroke-width="3"/>
+<rect x="610" y="242" width="326" height="228" rx="10" fill="#fff" stroke="#e0c9a6" stroke-width="2"/>
+<text x="626" y="268" font-size="15" font-weight="bold" fill="#370617">Stock</text>
+<text x="920" y="268" font-size="11" fill="#666" text-anchor="end">spoils in</text>
+<text x="626" y="294" font-size="13" fill="#333">Eggs</text>
+<rect x="706" y="283" width="100" height="12" rx="6" fill="#eee"/>
+<rect x="706" y="283" width="70.0" height="12" rx="6" fill="#2d6a4f"/>
+<text x="816" y="294" font-size="12" fill="#333">140</text>
+<text x="920" y="294" font-size="12" font-weight="bold" fill="#2d6a4f" text-anchor="end">5 days</text>
+<text x="626" y="328" font-size="13" fill="#333">Tomatoes</text>
+<rect x="706" y="317" width="100" height="12" rx="6" fill="#eee"/>
+<rect x="706" y="317" width="25.0" height="12" rx="6" fill="#e85d04"/>
+<text x="816" y="328" font-size="12" fill="#333">18 kg</text>
+<text x="920" y="328" font-size="12" font-weight="bold" fill="#e85d04" text-anchor="end">2 days</text>
+<text x="626" y="362" font-size="13" fill="#333">Peppers</text>
+<rect x="706" y="351" width="100" height="12" rx="6" fill="#eee"/>
+<rect x="706" y="351" width="50.0" height="12" rx="6" fill="#2d6a4f"/>
+<text x="816" y="362" font-size="12" fill="#333">9 kg</text>
+<text x="920" y="362" font-size="12" font-weight="bold" fill="#2d6a4f" text-anchor="end">4 days</text>
+<text x="626" y="396" font-size="13" fill="#333">Bread</text>
+<rect x="706" y="385" width="100" height="12" rx="6" fill="#eee"/>
+<rect x="706" y="385" width="60.0" height="12" rx="6" fill="#c1121f"/>
+<text x="816" y="396" font-size="12" fill="#333">40</text>
+<text x="920" y="396" font-size="12" font-weight="bold" fill="#c1121f" text-anchor="end">today</text>
+<text x="626" y="430" font-size="13" fill="#333">Feta</text>
+<rect x="706" y="419" width="100" height="12" rx="6" fill="#eee"/>
+<rect x="706" y="419" width="35.0" height="12" rx="6" fill="#2d6a4f"/>
+<text x="816" y="430" font-size="12" fill="#333">3 kg</text>
+<text x="920" y="430" font-size="12" font-weight="bold" fill="#2d6a4f" text-anchor="end">6 days</text>
+<rect x="24" y="490" width="560" height="150" rx="10" fill="#fff" stroke="#ffba08" stroke-width="3"/>
+<text x="44" y="520" font-size="12" font-weight="bold" fill="#e85d04">NEWS · supplier update</text>
+<text x="44" y="548" font-size="17" font-weight="bold" fill="#222">Tomato prices go up 40% starting Sunday.</text>
+<text x="44" y="572" font-size="13" fill="#555">You have 2 days of tomatoes left. Stock up now or adjust the menu?</text>
+<rect x="44" y="590" width="188.79999999999998" height="32" rx="8" fill="#2d6a4f"/>
+<text x="138.39999999999998" y="611" font-size="12.5" font-weight="bold" fill="#fff" text-anchor="middle">Order 30 kg now  (₪540)</text>
+<rect x="242.79999999999998" y="590" width="105.19999999999999" height="32" rx="8" fill="#6c757d"/>
+<text x="295.4" y="611" font-size="12.5" font-weight="bold" fill="#fff" text-anchor="middle">Wait and see</text>
+<rect x="358.0" y="590" width="166.0" height="32" rx="8" fill="#9d0208"/>
+<text x="441.0" y="611" font-size="12.5" font-weight="bold" fill="#fff" text-anchor="middle">Raise Classic to ₪45</text>
+<rect x="610" y="490" width="326" height="150" rx="10" fill="#fff" stroke="#e0c9a6" stroke-width="2"/>
+<text x="626" y="516" font-size="15" font-weight="bold" fill="#370617">Profit, last 7 days</text>
+<rect x="636" y="562.5" width="26" height="27.5" rx="3" fill="#2d6a4f"/>
+<text x="649" y="630" font-size="10" fill="#666" text-anchor="middle">S</text>
+<rect x="678" y="571.8145161290323" width="26" height="18.18548387096774" rx="3" fill="#2d6a4f"/>
+<text x="691" y="630" font-size="10" fill="#666" text-anchor="middle">M</text>
+<rect x="720" y="590" width="26" height="7.983870967741936" rx="3" fill="#c1121f"/>
+<text x="733" y="630" font-size="10" fill="#666" text-anchor="middle">T</text>
+<rect x="762" y="574.4758064516129" width="26" height="15.524193548387098" rx="3" fill="#2d6a4f"/>
+<text x="775" y="630" font-size="10" fill="#666" text-anchor="middle">W</text>
+<rect x="804" y="550.9677419354839" width="26" height="39.03225806451613" rx="3" fill="#2d6a4f"/>
+<text x="817" y="630" font-size="10" fill="#666" text-anchor="middle">T</text>
+<rect x="846" y="535.0" width="26" height="55.0" rx="3" fill="#2d6a4f"/>
+<text x="859" y="630" font-size="10" fill="#666" text-anchor="middle">F</text>
+<rect x="888" y="566.0483870967741" width="26" height="23.951612903225808" rx="3" fill="#2d6a4f"/>
+<text x="901" y="630" font-size="10" fill="#666" text-anchor="middle">S</text>
+<line x1="626" y1="590" x2="920" y2="590" stroke="#999"/>
+<text x="634" y="614" font-size="10" fill="#c1121f">rain</text>
+</svg>
